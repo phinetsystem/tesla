@@ -1,0 +1,5 @@
+print('njide')
+print('simon')
+print('Ivo')
+print('chidi')
+print('grace')
